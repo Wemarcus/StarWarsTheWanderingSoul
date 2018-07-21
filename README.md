@@ -14,6 +14,6 @@ Dass Jennir is the main character and the only playable character while Tark Dar
 
 [<i class="icon-provider-github"></i> Level Design Document](https://github.com/Wemarcus/StarWarsTheWanderingSoul/raw/master/Documentation/Level%20Design%20Document%20(Taras%20Embassy).pdf)
 
-[<i class="icon-provider-github"></i> Executable](https://mega.nz/#!4EkjGLwK!YdfZe1CDHI7BYmTmlDs1KdSntzBMTi7nzhw3_xjC-Zg)
+[<i class="icon-provider-github"></i> Executable](https://mega.nz/#!dYV2CYCI!nuSqoXi9yk0SBu4e3Rlj9AuiSPnSXlwCwgNTJvjeYW8)
 
 -------------
